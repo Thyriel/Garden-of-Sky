@@ -1,0 +1,23 @@
+==============
+0.2 Patchnotes
+==============
+Alternative starting world: Acid Ocean (select "Void?World" as starting world, should be default)
+    => This world is usefull to have no block placement / movement lag that
+       occurs in void worlds typically when blocks above void are changed.
+       
+ Rain is now toxic (damaging players and mobs/animals) !
+    => if you have animals better build them a house before you play with the new version !
+       Antidote potion: protects temporary from rain
+       Potion Ring of Antidote: Permanently protects from rain
+       
+ Recipe changes:
+ * shapeless 
+    - charcoalpit ash + black bone meal = soulus ash added
+ * pure daisy: 
+    - Mekanism Salt block added
+    (future patch / awaiting modtweaker fix): Soulus fossils will be generated with pureDaisy instead mana pool
+
+new mods:
+- forgiving void, infinitefluids, voidislandcontrol, toxicRain, potionFingers
+
+   
