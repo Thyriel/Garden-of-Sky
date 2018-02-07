@@ -5,10 +5,11 @@ Alternative starting world: Acid Ocean (select "Void?World" as starting world, s
     => This world is usefull to have no block placement / movement lag that
        occurs in void worlds typically when blocks above void are changed.
        
- Rain is now toxic (damaging players and mobs/animals) !
+ Rain is now acid (withering) !
     => if you have animals better build them a house before you play with the new version !
        Antidote potion: protects temporary from rain
-       Potion Ring of Antidote: Permanently protects from rain
+       Antidote Ring: Permanently protects from rain (only craftable in Composer)
+       Note that these do not protect from acid ocean !
        
  Recipe changes:
  * shapeless 
@@ -21,3 +22,6 @@ new mods:
 - forgiving void, infinitefluids, voidislandcontrol, toxicRain, potionFingers
 
    
+==================
+0.3 Preview
+==================
