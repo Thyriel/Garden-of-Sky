@@ -16,7 +16,6 @@ Alternative starting world: Acid Ocean (select "Void?World" as starting world, s
     - charcoalpit ash + black bone meal = soulus ash added
  * pure daisy: 
     - Mekanism Salt block added
-    (future patch / awaiting modtweaker fix): Soulus fossils will be generated with pureDaisy instead mana pool
 
 new mods:
 - forgiving void, infinitefluids, voidislandcontrol, toxicRain, potionFingers
@@ -25,3 +24,11 @@ new mods:
 ==================
 0.3 Preview
 ==================
+- Mekanism / Galacticraft recipe interaction:
+   x2 ore processing will require visting the moon (tier 1 rocket)
+   x3 ore processing will require visiting mars (tier 2 rocket)
+   x4 ore processing will require visiting venus/asteroids (tier 3 rocket)
+   x5 ore processing: no change until GC addon has been added (higher tier rockets)
+- Soulus fossils will be generated with pureDaisy instead mana pool (atm awaiting ModTweaker bugfix)
+
+Planned mods (not sure yet if they will make it into 0.3): Tinkers Construct, Buildcraft, some more Magic mods
