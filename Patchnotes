@@ -30,5 +30,7 @@ new mods:
    x4 ore processing will require visiting venus/asteroids (tier 3 rocket)
    x5 ore processing: no change until GC addon has been added (higher tier rockets)
 - Soulus fossils will be generated with pureDaisy instead mana pool (atm awaiting ModTweaker bugfix)
+- Commandblock spawning in new acid ocean worlds that prevents rain the first 3 minecraft days 
 
-Planned mods (not sure yet if they will make it into 0.3): Tinkers Construct, Buildcraft, some more Magic mods
+Planned mods (not sure yet if they will make it into 0.3): 
+   Tinkers Construct, Buildcraft, some more Magic mods
