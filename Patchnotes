@@ -1,6 +1,6 @@
   
 ==================
-0.3 Preview
+0.3 Patchnotes
 ==================
 - Worldtype "Void?World" (acid ocean) now spawns new players with lexica botania too
 - Mekanism / Galacticraft tiered progression:
@@ -8,12 +8,14 @@
    x3 ore processing requires visiting mars (tier 2 rocket => desh)
    x4 ore processing requires visiting venus and asteroids (tier 3 rocket => lead and titanium)
    x5 ore processing: no change until GC addon has been added (higher tier rockets/planets)
-- Soulus dirt fossils are now generated with pureDaisy instead mana pool to lower the early game mana needed a bit.
+- Soulus dirt fossils are now generated with pureDaisy instead mana pool to lower early game mana needs a bit.
 - new acid ocean worlds now have no (toxic) rain the first three minecraft days. (in GOG worldtype it still can rain on day 1)
 
-New mods:
-    Tinkers Construct
-
+Tinkers Construct added with some tweaks:
+       - smeltery ore doubling reduced to 1.5x (+50%)
+       - slime islands only generate in the twilight forest dimension (reminder: you need Niobium ingot to open the portal)
+       - cobalt & ardite to orechid ignem added. They are not naturally found in the nether.
+       - as the smeltery requires clay to be made you will need nether access before being able to build it
 
 
 ============
