@@ -1,3 +1,27 @@
+  
+==================
+0.3 Preview
+==================
+- Worldtype "Void?World" (acid ocean) now spawns new players with lexica botania too
+- Mekanism / Galacticraft tiered progression:
+   x2 ore processing requires visting the moon (tier 1 rocket => meteoric iron)
+   x3 ore processing requires visiting mars (tier 2 rocket => desh)
+   x4 ore processing requires visiting venus and asteroids (tier 3 rocket => lead and titanium)
+   x5 ore processing: no change until GC addon has been added (higher tier rockets/planets)
+- Soulus dirt fossils are now generated with pureDaisy instead mana pool to lower the early game mana needed a bit.
+- new acid ocean worlds now have no (toxic) rain the first three minecraft days. (in GOG worldtype it still can rain on day 1)
+
+New mods:
+    Tinkers Construct
+
+
+
+============
+0.2.1 Hotfix
+============
+Deactivated Quark Barks (overrided Log pile recipe by accident)
+
+
 ==============
 0.2 Patchnotes
 ==============
@@ -19,23 +43,3 @@ Alternative starting world: Acid Ocean (select "Void?World" as starting world, s
 
 new mods:
 - forgiving void, infinitefluids, voidislandcontrol, toxicRain, potionFingers
-
-============
-0.2.1 Hotfix
-============
-Deactivated Quark Barks (overrided Log pile recipe by accident)
-   
-==================
-0.3 Preview
-==================
-- Worldtype "Void?World" (acid ocean) now spawns new players with lexica botania too
-- Mekanism / Galacticraft tiered progression:
-   x2 ore processing requires visting the moon (tier 1 rocket => meteoric iron)
-   x3 ore processing requires visiting mars (tier 2 rocket => desh)
-   x4 ore processing requires visiting venus and asteroids (tier 3 rocket => lead and titanium)
-   x5 ore processing: no change until GC addon has been added (higher tier rockets/planets)
-- Soulus dirt fossils are now generated with pureDaisy instead mana pool to lower the early game mana needed a bit.
-- new acid ocean worlds now have no (toxic) rain the first three minecraft days. (in GOG worldtype it still can rain on day 1)
-
-Planned mods (not sure yet if they will make it into 0.3): 
-   Tinkers Construct, Buildcraft, some more Magic mods
