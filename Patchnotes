@@ -20,6 +20,10 @@ Alternative starting world: Acid Ocean (select "Void?World" as starting world, s
 new mods:
 - forgiving void, infinitefluids, voidislandcontrol, toxicRain, potionFingers
 
+============
+0.2.1 Hotfix
+============
+Deactivated Quark Barks (overrided Log pile recipe by accident)
    
 ==================
 0.3 Preview
