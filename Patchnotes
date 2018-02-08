@@ -34,7 +34,7 @@ Deactivated Quark Barks (overrided Log pile recipe by accident)
    x3 ore processing will require visiting mars (tier 2 rocket)
    x4 ore processing will require visiting venus/asteroids (tier 3 rocket)
    x5 ore processing: no change until GC addon has been added (higher tier rockets)
-- Soulus fossils will be generated with pureDaisy instead mana pool (atm awaiting ModTweaker bugfix)
+- Soulus dirt fossils will be generated with pureDaisy instead mana pool (atm awaiting ModTweaker bugfix)
 - Commandblock spawning in new acid ocean worlds that prevents rain the first 3 minecraft days 
 
 Planned mods (not sure yet if they will make it into 0.3): 
