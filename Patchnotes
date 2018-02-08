@@ -28,6 +28,7 @@ Deactivated Quark Barks (overrided Log pile recipe by accident)
 ==================
 0.3 Preview
 ==================
+- Worldtype "Void?World" (acid ocean) now spawns new players with lexica botania too
 - Mekanism / Galacticraft recipe interaction:
    x2 ore processing will require visting the moon (tier 1 rocket)
    x3 ore processing will require visiting mars (tier 2 rocket)
