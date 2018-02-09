@@ -2,6 +2,10 @@
 ======================
 
 - squid no longer spawning in water (use essence if you need them)
-- soulus updated (TOP support, new way for slime & irongolen & magmacube essence to obtain)
+- soulus updated:
+  * TOP support added
+  * new way to get some essences: https://github.com/Yuudaari/soulus#spawning-slimes-magma-cubes-and-iron-golems- 
+  * Enderlink (teleporter) added: https://github.com/Yuudaari/soulus#enderlink-
+  * new recipe for Soul totem
 
 new mods: betterfps
